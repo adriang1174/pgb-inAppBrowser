@@ -8,7 +8,9 @@
 		Vituin
 	</name>
 	<description>
-		 Rede social autenticamente galega
+		The language of this application is 'Galician'. Support for English and Spanish are also available.
+		Galician social network
+		Rede social autenticamente galega
 	</description>
 
 	 <author email="info.marcossuarez@gmail.com" href="http://vituin.com">
@@ -40,7 +42,7 @@
     <icon gap:platform="ios" height="114" src="res/icon/ios/icon-57-2x.png" width="114" />
     <icon gap:platform="ios" height="144" src="res/icon/ios/icon-72-2x.png" width="144" />
     <icon gap:platform="winphone" src="res/icon/windows-phone/icon-48.png" />
-    <icon gap:platform="winphone" gap:role="background" src="res/icon/windows-phone/icon-173.png" />
+    <icon gap:platform="winphone" gap:role="background" src="res/icon/windows-phone/icon-173-tile.png" />
     <gap:splash gap:density="ldpi" gap:platform="android" src="res/screen/android/screen-ldpi-portrait.png" />
     <gap:splash gap:density="mdpi" gap:platform="android" src="res/screen/android/screen-mdpi-portrait.png" />
     <gap:splash gap:density="hdpi" gap:platform="android" src="res/screen/android/screen-hdpi-portrait.png" />
